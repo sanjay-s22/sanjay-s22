@@ -4,7 +4,7 @@
 
 BSc Computer Science graduate with specialization in Artificial Intelligence and Machine Learning. Experienced in building backend applications with Python and Django, data analysis with PowerBI, and developing REST APIs. Currently expanding expertise in cloud technologies and mobile application development.
 
-**Technical Skills:** Python • Django • Django REST Framework • MySQL • PowerBI • Advanced Excel • Git • GitHub • Postman • AWS (Fundamentals)
+**Technical Skills:** Python • Django • Django REST Framework • MySQL • PowerBI • Advanced Excel • Git • GitHub • Postman 
 
 **Currently Learning:** AWS Cloud Services • Mobile App Development
 
