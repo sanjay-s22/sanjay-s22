@@ -2,7 +2,7 @@
 
 **Computer Science Graduate | AI/ML Specialist | Backend Developer**
 
-BSc Computer Science graduate with specialization in Artificial Intelligence and Machine Learning. Experienced in building backend applications with Python and Django, data analysis with PowerBI, and developing REST APIs. Currently expanding expertise in cloud technologies and mobile application development.
+BSc Computer Science graduate with specialization in Artificial Intelligence and Machine Learning. Experienced in building backend applications with Python and Django, data analysis with PowerBI, and developing REST APIs. Currently expanding expertise in cloud technologies and application development.
 
 **Technical Skills:** Python • Django • Django REST Framework • MySQL • PowerBI • Advanced Excel • Git • GitHub • Postman 
 
