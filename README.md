@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sanjay S
 
-<!--
-**sanjay-s22/sanjay-s22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Graduate | AI/ML Specialist | Backend Developer**
 
-Here are some ideas to get you started:
+BSc Computer Science graduate with specialization in Artificial Intelligence and Machine Learning. Experienced in building backend applications with Python and Django, data analysis with PowerBI, and developing REST APIs. Currently expanding expertise in cloud technologies and mobile application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical Skills:** Python • Django • Django REST Framework • MySQL • PowerBI • Advanced Excel • Git • GitHub • Postman • AWS (Fundamentals)
+
+**Currently Learning:** AWS Cloud Services • Mobile App Development
+
+**Seeking:** Entry-level software development positions in backend development, data analysis, or AI/ML engineering roles.
+
+📧 sanjays.20304@gmail.com
